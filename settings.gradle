@@ -1,0 +1,2 @@
+rootProject.name='WordCounter'
+include ':app'
